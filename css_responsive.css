@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(150, 71, 71);
+    color: white;
+}
+
+h1 {
+    background-color: greenyellow;
+}
+div.h2,p {
+    float: center;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    height: 250px;
+    border: 1px solid black;
+}
